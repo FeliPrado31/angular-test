@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angu-d837c": {
+      "hosting": {
+        "client": [
+          "angu-d837c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angu-d837c"
+  }
+}
